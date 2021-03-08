@@ -87,3 +87,7 @@ footer {
 - Rolling Scopes School Cources (Now I attend these courses)
 
 ### Education
+I’ve graduated from Belarusian Institute of Law and later from Belarusian National Technical University, so I have 2 high education degrees. Also I’ve graduated from Belarusian National Economic University with degree of Master in law.
+
+### English level
+My English level is A1 (Elementary English). I learned English at school for 11 years. After that, I learned law-English at the University. I have not attended English courses before, but now I’m looking for options to improve my level in the near future.
